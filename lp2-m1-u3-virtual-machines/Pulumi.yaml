@@ -1,0 +1,13 @@
+name: lp2-m1-u3-vms
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+description: lp2-m1-u3-virtual-machines
+config:
+  pulumi:tags:
+    value:
+      purpose: training
+      project: az-900
+      owner: neovasili
+      environment: test
