@@ -1,0 +1,13 @@
+name: lp2-m2-u3-storage
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+description: lp2-m2-u3-storage
+config:
+  pulumi:tags:
+    value:
+      purpose: training
+      project: az-900
+      owner: neovasili
+      environment: test
