@@ -1,0 +1,13 @@
+name: lp3-m2-u5-locks
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+description: lp3-m2-u5-locks
+config:
+  pulumi:tags:
+    value:
+      purpose: training
+      project: az-900
+      owner: neovasili
+      environment: test
