@@ -12,7 +12,7 @@ importers:
         specifier: 2.11.0
         version: 2.11.0
       '@pulumi/pulumi':
-        specifier: '*'
+        specifier: 3.204.0
         version: 3.204.0
 
 packages:

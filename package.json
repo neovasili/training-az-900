@@ -7,7 +7,7 @@
   },
   "author": "",
   "dependencies": {
-    "@pulumi/pulumi": "*",
-    "@pulumi/azure-native": "2.11.0"
+    "@pulumi/azure-native": "2.11.0",
+    "@pulumi/pulumi": "3.204.0"
   }
 }
