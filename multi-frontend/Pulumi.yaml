@@ -1,0 +1,13 @@
+name: multi-frontend
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+description: multi-frontend
+config:
+  pulumi:tags:
+    value:
+      purpose: training
+      project: az-900
+      owner: neovasili
+      environment: test
